@@ -11,7 +11,7 @@ media tag for Hexo 3.x, with help of [cplayer](https://github.com/Copay/cPlayer)
 ## usage
 
 ```
-{% cplayer ARTIST CONVER SONGS %}
+{% cplayer ARTIST COVER(url) SONGS %}
 ```
 
 songs:
