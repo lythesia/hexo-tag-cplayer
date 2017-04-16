@@ -1,0 +1,21 @@
+{
+  "name": "hexo-tag-cplayer",
+  "version": "0.0.1",
+  "main": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lythesia/hexo-tag-cplayer.git"
+  },
+  "keywords": [ "cplayer", "music" ],
+  "author": {
+    "name": "lythesia",
+    "email": "iranaikimi@gmail.com"
+  },
+  "engines": {
+    "hexo": "*"
+  },
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
+  "license": "MIT"
+}
